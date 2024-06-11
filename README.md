@@ -20,8 +20,8 @@ Dark Channel Prior: Utilized for dehazing by estimating the transmission map.
 Bilateral Filtering: Smoothens images while preserving edges.
 Retinex Algorithms: Models the way human eyes perceive images to enhance details and dynamic range.
 
-Usage
-Prerequisites
+<b>Usage
+Prerequisites</b>
 
 Python 3.7+
 
@@ -34,27 +34,27 @@ Matplotlib
 Scikit-Image
 
 
-Installation
 
-Clone the repository:
+
+<b>Clone the repository:</b>
 
 git clone https://github.com/ria-kalra/underwater-image-enhancement.git
 
 
-Install the required packages:
+<b>Install the required packages:</b>
 
 pip install -r requirements.txt
 
-Running the Enhancement
+<b>Running the Enhancement</b>
 
 python enhance.py 
 
 --input path_to_underwater_image 
 --output path_to_save_enhanced_image
 
-Contributing
+
 Contributions are welcome! Please submit a pull request or open an issue to discuss potential improvements or new features.
 
-License
+
 This project is licensed under the MIT License.
 
