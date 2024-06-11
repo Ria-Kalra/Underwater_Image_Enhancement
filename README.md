@@ -69,8 +69,8 @@ python enhance.py
 --output path_to_save_enhanced_image
 
 
-Contributions are welcome! Please submit a pull request or open an issue to discuss potential improvements or new features.
+<b>Contributions</b> are welcome! Please submit a pull request or open an issue to discuss potential improvements or new features.
 
 
-This project is licensed under the MIT License.
+This project is licensed under the <b>MIT License</b>.
 
