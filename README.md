@@ -1,24 +1,39 @@
 # Underwater_Image_Enhancement
-Overview
+
 Underwater Image Enhancement aims to improve the visual quality of images taken underwater. Due to the absorption and scattering of light, underwater images often suffer from issues like color distortion, low contrast, and blur. This repository contains various techniques and algorithms designed to address these problems and produce clearer, more vibrant underwater images.
 
-Features
+<b>Features</b>
 
-Color Correction: Adjusts the color balance to correct the blue/green color cast typical in underwater images.
-Contrast Enhancement: Increases the contrast to make objects in the image more distinguishable.
-Dehazing: Reduces the haze effect caused by particles in the water.
-Noise Reduction: Removes or reduces noise to improve image clarity.
-Sharpness Enhancement: Enhances the sharpness of the image to highlight details.
-Depth-Based Adjustment: Applies depth-aware techniques for more accurate enhancement.
+<u>Color Correction:</u> Adjusts the color balance to correct the blue/green color cast typical in underwater images.
+
+<u>Contrast Enhancement:</u> Increases the contrast to make objects in the image more distinguishable.
+
+<u>Dehazing:</u> Reduces the haze effect caused by particles in the water.
+
+<u>Noise Reduction:</u> Removes or reduces noise to improve image clarity.
+
+<u>Sharpness Enhancement:</u> Enhances the sharpness of the image to highlight details.
+
+<u>Depth-Based Adjustment:</u> Applies depth-aware techniques for more accurate enhancement.
 
 
-Algorithms 
-Histogram Equalization: Enhances contrast by stretching the intensity distribution.
-White Balance Adjustment: Corrects color by normalizing the image based on white color references.
-CLAHE (Contrast Limited Adaptive Histogram Equalization): Improves local contrast and is particularly effective in enhancing the visibility of edges.
-Dark Channel Prior: Utilized for dehazing by estimating the transmission map.
-Bilateral Filtering: Smoothens images while preserving edges.
-Retinex Algorithms: Models the way human eyes perceive images to enhance details and dynamic range.
+<b>Algorithms</b> 
+<u>Histogram Equalization:</u> Enhances contrast by stretching the intensity distribution.
+
+<u>White Balance Adjustment:</u> Corrects color by normalizing the image based on white color references.
+
+<u>CLAHE (Contrast Limited Adaptive Histogram Equalization):</u> Improves local contrast and is particularly effective in enhancing the visibility of edges.
+
+<u>Dark Channel Prior:</u> Utilized for dehazing by estimating the transmission map.
+
+<u>Bilateral Filtering:</u> Smoothens images while preserving edges.
+
+<u>Retinex Algorithms:</u> Models the way human eyes perceive images to enhance details and dynamic range.
+
+<u>Autoencoders:</u> For more enahcnement latest deep learning technique.
+
+<u>SRCNN:</u> Super Resolution Convolutional Neural Network.
+
 
 <b>Usage
 Prerequisites</b>
