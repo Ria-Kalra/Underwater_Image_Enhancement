@@ -18,6 +18,7 @@ Underwater Image Enhancement aims to improve the visual quality of images taken 
 
 
 <b>Algorithms</b> 
+
 <u>Histogram Equalization:</u> Enhances contrast by stretching the intensity distribution.
 
 <u>White Balance Adjustment:</u> Corrects color by normalizing the image based on white color references.
