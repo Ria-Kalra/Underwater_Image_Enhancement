@@ -3,6 +3,7 @@ Overview
 Underwater Image Enhancement aims to improve the visual quality of images taken underwater. Due to the absorption and scattering of light, underwater images often suffer from issues like color distortion, low contrast, and blur. This repository contains various techniques and algorithms designed to address these problems and produce clearer, more vibrant underwater images.
 
 Features
+
 Color Correction: Adjusts the color balance to correct the blue/green color cast typical in underwater images.
 Contrast Enhancement: Increases the contrast to make objects in the image more distinguishable.
 Dehazing: Reduces the haze effect caused by particles in the water.
@@ -21,10 +22,15 @@ Retinex Algorithms: Models the way human eyes perceive images to enhance details
 
 Usage
 Prerequisites
+
 Python 3.7+
+
 OpenCV
+
 NumPy
+
 Matplotlib
+
 Scikit-Image
 
 
