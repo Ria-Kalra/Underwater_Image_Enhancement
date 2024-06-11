@@ -37,20 +37,20 @@ Scikit-Image
 Installation
 
 Clone the repository:
-sh
-Copy code
+
 git clone https://github.com/ria-kalra/underwater-image-enhancement.git
-cd underwater-image-enhancement
+
 
 Install the required packages:
-sh
-Copy code
+
 pip install -r requirements.txt
 
 Running the Enhancement
-sh
-Copy code
-python enhance.py --input path_to_underwater_image --output path_to_save_enhanced_image
+
+python enhance.py 
+
+--input path_to_underwater_image 
+--output path_to_save_enhanced_image
 
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss potential improvements or new features.
