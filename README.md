@@ -9,7 +9,9 @@ Dehazing: Reduces the haze effect caused by particles in the water.
 Noise Reduction: Removes or reduces noise to improve image clarity.
 Sharpness Enhancement: Enhances the sharpness of the image to highlight details.
 Depth-Based Adjustment: Applies depth-aware techniques for more accurate enhancement.
-Algorithms Implemented
+
+
+Algorithms 
 Histogram Equalization: Enhances contrast by stretching the intensity distribution.
 White Balance Adjustment: Corrects color by normalizing the image based on white color references.
 CLAHE (Contrast Limited Adaptive Histogram Equalization): Improves local contrast and is particularly effective in enhancing the visibility of edges.
@@ -27,6 +29,7 @@ Scikit-Image
 
 
 Installation
+
 Clone the repository:
 sh
 Copy code
